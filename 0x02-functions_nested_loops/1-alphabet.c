@@ -2,7 +2,7 @@
 
 /**
  * print alphabet - Make the alphabet
- * Description: prints alphabet in lowercase
+ * Description: Prints alphabet in lowercase
  * Return: void
  */
 
